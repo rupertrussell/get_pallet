@@ -26,6 +26,8 @@ void draw() {
       count ++;
     }
   }
+  
+  save("thumbnail.png");
 }
 
 
